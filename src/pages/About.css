@@ -1,0 +1,120 @@
+.about-bg{
+    background-color: rgb(246, 239, 239);
+}
+
+.about-bg .vision-div{
+    background-color: rgb(246, 239, 239);
+    margin-bottom: 0%;
+    padding-top: 5%;
+    
+    margin-left: 10%;
+    margin-right: 40%;  
+}
+
+.about-bg .vision-div h3{
+    position: absolute;
+    margin-top: 10%;
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    padding-right: 50%;
+    position: absolute;
+    text-align: justify;
+}
+
+.about-bg .vision-div h1{
+    position: absolute;
+    margin-top: 4%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.about-bg .vision-div .vision-img{
+    width: 50%;
+    margin-left: 100%;
+    margin-right: 0%;
+    margin-top: 0%;
+    position: relative;
+    display: flex;
+    
+}
+.about-bg .approach-div{
+    background-color: rgb(246, 239, 239);
+    margin-bottom: 0%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;  
+}
+
+.about-bg .approach-div h4{
+    position: absolute;
+    margin-top: 10%;
+    font-weight: bolder;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    padding-left: 38%;
+    position: absolute;
+    text-align: justify;
+    margin-right: 2%;
+}
+
+.about-bg .approach-div h1{
+    position: absolute;
+    margin-top: 4%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 0%;
+    padding-left: 38%;
+}
+
+.about-bg .approach-div .approach-img{
+    width: 35%;
+    margin-left: 0%;
+    margin-right: 100%;
+    margin-top: 0%;
+    position: relative;
+    display: flex;
+    
+}
+
+.contact-div{
+    background-color:black;
+    margin-top: 0%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.contact-div .contact-ip{
+   margin-left: 4%;
+   padding-right: 10%;
+   background-color: black;
+   color: white;
+   font-size: large;
+}
+
+.contact-div h5{
+    color: white;
+    margin-left: 4%;
+    padding-top: 2%;
+    font-weight: lighter;
+    font-size: large;
+}
+
+.contact-div a{
+    margin-left: 4%;
+    font-size: 3rem;
+}
+
+.contact-div .payment-img{
+    width: 10%;
+    margin-left: 4%;
+    padding-top: 1%;
+    border-radius: 5%;
+}

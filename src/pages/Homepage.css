@@ -1,0 +1,264 @@
+.div1img{
+    transform: rotate(0deg);
+    padding-top: 0%;
+    text-align: center;
+    width: 100%;   
+}
+
+.div1{
+    position: relative;
+  text-align: center;
+  color: black;
+}
+
+
+.overimagetext{
+    position: absolute;
+    top: 40%;
+    left: 14%;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    
+    
+}
+.overimagetext2{
+    position: absolute;
+    top: 47%;
+    left: 6%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    right: 50%;
+}
+
+.overimagetext3{
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    right: 50%;
+
+}
+
+.div2{
+    position: relative;
+}
+
+
+.div2bg{
+    position: relative;
+    width: 100%;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.div2 .frame{
+    position: absolute;
+    top: 12%;
+    left: 8%;
+    height: 70%;
+}
+
+.pic1{
+    position: absolute;
+    top: 4%;
+    left: 22%;
+    height: 70%;
+    border-radius: 2%;
+    border-style: groove;
+
+}
+
+.pic2{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    height: 60%;
+    border-radius: 2%;
+    border-style: groove;
+    
+}
+
+.logo2{
+    position: absolute;
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    right: 8%;
+    top: 25%;
+    color: white;
+}
+
+.welcome{
+    position: absolute;
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    right: 30%;
+    top: 17%;
+    color: white;
+
+}
+
+.welcome-speech{
+    position: absolute;
+    color: white;
+    font-size: 1.7rem;
+    font-family: cursive;
+    font-weight: 100;
+    right: 5%;
+    left: 55%;
+    top: 40%;
+    text-align: justify;
+}
+
+.shop-now{
+    right: 5%;
+    top: 90%;
+    /* border-radius: 10%; */
+    position: absolute;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 74, 8);
+    font-weight: bold;
+    border: none;
+    border-color: rgb(8, 74, 8);
+    cursor: pointer;
+}
+
+.div3{
+    background-color: #899382;
+    position: relative;
+    
+}
+
+.div3title{
+    text-align: left;
+    /* font-family: brush script mt; */
+    font-family: sitka subheading semibold;
+    font-size: 6rem;
+    color:  white;
+    font-weight: 100;
+    top: 2%;
+    margin-left: 4%;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.plant-corner{
+    position: relative;
+    top: 42%;
+    left: 5%;
+    height: 300px;
+    border-radius: 50%; 
+}
+
+.summer-bloom{
+    position: relative;
+    top: 42%;
+    left: 5%;
+    width: 230px;
+    height: 300px;
+    border-radius: 50%; 
+}
+
+.mr-mrs{
+    position: relative;
+    top: 42%;
+    left: 5%;
+    width: 240px;
+    height: 300px;
+    border-radius: 50%; 
+}
+
+.home-decor{
+    position: relative;
+    top: 42%;
+    left: 5%;
+    height: 300px;
+    border-radius: 50%; 
+    
+}
+
+
+.plant-corner-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color:  rgb(5, 43, 5) ;
+    font-family: century schoolbook;
+    padding-top: 10%;
+    
+}
+
+.summer-bloom-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color:  rgb(5, 43, 5) ;
+    font-family: century schoolbook;
+    position: relative;
+    left: 5%;
+    padding-top: 10%;
+}
+
+.mr-mrs-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color:  rgb(5, 43, 5) ;
+    font-family: century schoolbook;
+    position: relative;
+    left:7%;
+    padding-top: 10%;
+    
+}
+
+
+.home-decor-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color:  rgb(5, 43, 5) ;
+    font-family: century schoolbook;
+    position: relative;
+    left:5%;
+    padding-top: 10%;
+    
+    
+}
+
+
+.div3 .button-div3 {
+    position: relative;
+    text-align: center;  
+    padding-top: 5%;
+    padding-bottom: 4%;
+    
+}
+
+
+.shop-now-div3{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: relative;
+    top: 90%;
+    align-items: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(5, 43, 5) ;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    border: none;
+    border-color: rgb(8, 74, 8);
+    cursor: pointer;
+
+}
